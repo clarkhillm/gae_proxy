@@ -3,6 +3,4 @@
 *.pyc
 *.pac
 *.key
-*.crt
 *.pid
-*.user.ini
