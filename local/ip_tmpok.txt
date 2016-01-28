@@ -1,0 +1,220 @@
+173.194.49.138 505 *.c.docs.google.com gvs 1.0
+74.125.152.238 829 *.c.docs.google.com gvs 1.0
+173.194.12.111 869 *.c.docs.google.com gvs 1.0
+74.125.152.213 891 *.c.docs.google.com gvs 1.0
+74.125.152.234 900 *.c.docs.google.com gvs 1.0
+173.194.49.140 986 *.c.docs.google.com gvs 1.0
+208.117.227.132 990 *.googlevideo.com gvs 1.0
+64.15.121.162 996 www.google.com gws
+173.194.57.46 1003 *.c.docs.google.com gvs 1.0
+208.117.237.172 1006 www.google.com gws
+208.117.237.34 1006 www.google.com gws
+64.15.123.79 1013 www.google.com gws
+208.117.237.94 1016 www.google.com gws
+208.117.245.159 1038 www.google.com gws
+208.117.237.89 1048 www.google.com gws
+208.117.245.162 1058 www.google.com gws
+64.15.121.6 1067 www.google.com gws
+64.15.123.123 1082 www.google.com gws
+64.15.122.62 1104 www.google.com gws
+208.117.237.114 1120 www.google.com gws
+64.15.122.60 1120 www.google.com gws
+64.15.122.205 1131 www.google.com gws
+208.117.246.117 1163 google.com gws
+208.117.245.187 1182 www.google.com gws
+173.194.132.211 1204 *.c.docs.google.com gvs 1.0
+74.125.132.141 1219 *.appspot.com gws
+64.15.119.69 1242 *.googlevideo.com gvs 1.0
+64.15.120.142 1270 www.google.com gws
+74.125.232.215 1278 google.com gws
+74.125.232.199 1299 *.google.com gws
+74.125.132.94 1302 google.com gws
+64.15.114.14 1327 *.googlevideo.com gvs 1.0
+66.102.12.35 1331 *.rucn.google.com gws
+173.194.57.9 1334 *.c.docs.google.com gvs 1.0
+74.125.132.219 1351 *.googleapis.com gws
+173.194.136.169 1352 *.c.docs.google.com gvs 1.0
+208.117.237.54 1354 www.google.com gws
+173.194.7.108 1363 *.c.docs.google.com gvs 1.0
+208.117.246.109 1388 *.googlevideo.com gvs 1.0
+173.194.139.203 1390 *.c.docs.google.com gvs 1.0
+74.125.155.148 1393 *.c.docs.google.com gvs 1.0
+208.117.230.185 1408 google.com gws
+66.102.12.98 1415 *.rucn.google.com gws
+173.194.139.17 1417 *.c.docs.google.com gvs 1.0
+74.125.154.15 1431 *.c.docs.google.com gvs 1.0
+74.125.155.44 1437 *.c.docs.google.com gvs 1.0
+173.194.139.207 1441 *.c.docs.google.com gvs 1.0
+74.125.156.204 1472 *.c.docs.google.com gvs 1.0
+173.194.48.205 1479 *.c.docs.google.com gvs 1.0
+74.125.153.220 1493 *.c.docs.google.com gvs 1.0
+173.194.48.216 1507 *.c.docs.google.com gvs 1.0
+74.125.154.47 1529 *.c.docs.google.com gvs 1.0
+74.125.153.105 1532 *.c.docs.google.com gvs 1.0
+173.194.129.211 1537 *.c.docs.google.com gvs 1.0
+74.125.154.40 1539 *.c.docs.google.com gvs 1.0
+74.125.163.34 1557 *.c.docs.google.com gvs 1.0
+173.194.136.219 1572 *.c.docs.google.com gvs 1.0
+74.125.155.153 1577 *.c.docs.google.com gvs 1.0
+74.125.1.106 1583 *.c.docs.google.com gvs 1.0
+64.15.114.4 1595 *.googlevideo.com gvs 1.0
+64.15.120.178 1636 www.google.com gws
+173.194.132.246 1644 *.c.docs.google.com gvs 1.0
+74.125.163.8 1690 *.c.docs.google.com gvs 1.0
+66.102.12.99 1747 *.rucn.google.com gws
+64.15.120.42 1813 www.google.com gws
+209.85.227.179 1840 *.c.docs.google.com gvs 1.0
+74.125.154.41 1869 *.c.docs.google.com gvs 1.0
+208.117.246.36 1951 *.googlevideo.com gvs 1.0
+173.194.58.197 1968 *.c.docs.google.com gvs 1.0
+74.125.155.39 2037 *.c.docs.google.com gvs 1.0
+208.117.246.140 2061 *.googlevideo.com gvs 1.0
+173.194.148.35 2167 *.c.docs.google.com gvs 1.0
+173.194.5.235 2207 *.c.docs.google.com gvs 1.0
+173.194.139.182 2290 *.c.docs.google.com gvs 1.0
+64.15.112.74 2292 *.googlevideo.com gvs 1.0
+74.125.163.1 2386 *.c.docs.google.com gvs 1.0
+74.125.111.98 2483 *.c.docs.google.com gvs 1.0
+208.117.228.105 2713 *.googlevideo.com gvs 1.0
+173.194.2.22 3059 *.c.docs.google.com gvs 1.0
+208.117.228.106 3214 *.googlevideo.com gvs 1.0
+173.194.139.170 3867 *.c.docs.google.com gvs 1.0
+74.125.153.103 4182 *.c.docs.google.com gvs 1.0
+64.15.123.217 5159 www.google.com gws
+210.139.253.142 NA_245 *.googlevideo.com gvs 1.0
+210.139.253.138 NA_265 *.googlevideo.com gvs 1.0
+210.139.253.173 NA_319 google.com gws
+64.15.120.253 NA_951 www.google.com gws
+208.117.228.249 NA_974 google.com gws
+173.194.49.136 NA_980 *.c.docs.google.com gvs 1.0
+208.117.228.244 NA_989 google.com gws
+208.117.245.20 NA_998 www.google.com gws
+208.117.237.112 NA_1008 www.google.com gws
+64.15.121.133 NA_1015 www.google.com gws
+208.117.237.30 NA_1024 www.google.com gws
+208.117.245.98 NA_1026 www.google.com gws
+208.117.235.21 NA_1029 google.com gws
+208.117.237.35 NA_1040 www.google.com gws
+64.15.121.85 NA_1041 www.google.com gws
+64.15.120.53 NA_1044 www.google.com gws
+210.139.253.135 NA_1114 *.googlevideo.com gvs 1.0
+203.165.14.222 NA_1117 google.com gws
+173.194.49.135 NA_1121 *.c.docs.google.com gvs 1.0
+106.162.198.117 NA_1128 *.googlevideo.com gvs 1.0
+173.194.12.118 NA_1166 *.c.docs.google.com gvs 1.0
+208.117.228.251 NA_1189 google.com gws
+74.125.1.117 NA_1199 *.c.docs.google.com gvs 1.0
+208.117.228.248 NA_1201 google.com gws
+74.125.1.74 NA_1235 *.c.docs.google.com gvs 1.0
+64.15.121.143 NA_1317 www.google.com gws
+64.15.121.90 NA_1325 www.google.com gws
+208.117.228.243 NA_1335 google.com gws
+208.117.228.236 NA_1336 *.googlevideo.com gvs 1.0
+208.117.237.31 NA_1350 www.google.com gws
+208.117.228.246 NA_1360 google.com gws
+208.117.228.237 NA_1363 *.googlevideo.com gvs 1.0
+64.15.120.173 NA_1369 www.google.com gws
+118.174.27.147 NA_1376 *.googlevideo.com gvs 1.0
+64.15.123.32 NA_1378 www.google.com gws
+64.15.121.69 NA_1379 www.google.com gws
+173.194.55.169 NA_1380 *.c.docs.google.com gvs 1.0
+64.15.120.254 NA_1411 www.google.com gws
+1.179.248.207 NA_1430 *.googlevideo.com gvs 1.0
+1.179.248.35 NA_1464 google.com gws
+64.15.122.216 NA_1474 www.google.com gws
+74.125.153.76 NA_1492 *.c.docs.google.com gvs 1.0
+1.179.248.73 NA_1557 *.googlevideo.com gvs 1.0
+118.174.27.81 NA_1570 *.googlevideo.com gvs 1.0
+173.194.53.202 NA_1585 *.c.docs.google.com gvs 1.0
+173.194.55.202 NA_1628 *.c.docs.google.com gvs 1.0
+173.194.139.183 NA_1630 *.c.docs.google.com gvs 1.0
+173.194.5.247 NA_1641 *.c.docs.google.com gvs 1.0
+74.125.157.54 NA_1658 *.c.docs.google.com gvs 1.0
+173.194.68.95 NA_1708 *.googleapis.com gws
+74.125.138.116 NA_1753 upload.video.google.com gws
+173.194.5.249 NA_1805 *.c.docs.google.com gvs 1.0
+118.174.25.151 NA_1806 *.googlevideo.com gvs 1.0
+1.179.248.185 NA_1824 *.googlevideo.com gvs 1.0
+74.125.1.73 NA_1831 *.c.docs.google.com gvs 1.0
+208.117.237.163 NA_1832 www.google.com gws
+64.15.123.215 NA_1832 www.google.com gws
+74.125.156.235 NA_1832 *.c.docs.google.com gvs 1.0
+208.117.235.25 NA_1833 google.com gws
+208.117.235.26 NA_1833 google.com gws
+208.117.245.35 NA_1834 www.google.com gws
+208.117.228.242 NA_1836 google.com gws
+118.174.25.72 NA_1841 *.googlevideo.com gvs 1.0
+118.174.27.140 NA_1914 *.googlevideo.com gvs 1.0
+74.125.138.105 NA_1918 www.google.com gws
+74.125.154.121 NA_1943 *.c.docs.google.com gvs 1.0
+173.194.138.209 NA_1962 *.c.docs.google.com gvs 1.0
+64.15.120.177 NA_1962 www.google.com gws
+118.174.25.13 NA_1990 *.googlevideo.com gvs 1.0
+173.194.48.172 NA_1999 *.c.docs.google.com gvs 1.0
+208.117.237.200 NA_2011 www.google.com gws
+208.117.244.151 NA_2026 *.googlevideo.com gvs 1.0
+1.179.248.213 NA_2057 *.googlevideo.com gvs 1.0
+173.194.48.202 NA_2143 *.c.docs.google.com gvs 1.0
+74.125.138.190 NA_2150 *.google.com gws
+173.194.73.143 NA_2151 *.de.doubleclick.net gws
+123.205.250.69 NA_2210 *.googlevideo.com gvs 1.0
+173.194.139.199 NA_2325 *.c.docs.google.com gvs 1.0
+173.194.68.93 NA_2496 *.google.com gws
+118.174.25.216 NA_2501 google.com gws
+208.117.235.24 NA_2684 google.com gws
+173.194.68.100 NA_2790 *.google.com gws
+64.15.120.121 NA_2850 www.google.com gws
+64.15.121.206 NA_2924 www.google.com gws
+173.194.68.94 NA_3030 google.com gws
+208.117.245.44 NA_3126 www.google.com gws
+74.125.171.234 NA_3170 *.c.docs.google.com gvs 1.0
+74.125.1.83 NA_3773 *.c.docs.google.com gvs 1.0
+1.179.248.12 NA_3920 *.googlevideo.com gvs 1.0
+208.117.237.244 NA_3947 www.google.com gws
+74.125.154.21 NA_4087 *.c.docs.google.com gvs 1.0
+208.117.235.6 NA_4597 *.googlevideo.com gvs 1.0
+173.194.48.167 NA_4662 *.c.docs.google.com gvs 1.0
+208.117.228.245 NA_4787 google.com gws
+173.194.69.100 NA_4939 *.google.com gws
+118.174.25.200 NA_5266 *.googlevideo.com gvs 1.0
+173.194.69.102 NA_5463 *.google.com gws
+173.194.5.57 NA_5512 *.c.docs.google.com gvs 1.0
+74.125.132.86 NA_5603 *.orkut.com gws
+118.174.27.55 NA_6095 google.com 
+173.194.129.201 NA_6333 *.c.docs.google.com gvs 1.0
+173.194.2.7 NA_6335 *.c.docs.google.com gvs 1.0
+1.179.248.88 NA_1595 google.com gws
+173.194.55.243 NA_2248 *.c.docs.google.com gvs 1.0
+173.194.2.34 NA_2252 *.c.docs.google.com gvs 1.0
+1.179.248.10 NA_2618 *.googlevideo.com gvs 1.0
+74.125.132.98 NA_3442 *.google.com gws
+203.165.13.215 NA_276 *.googlevideo.com gvs 1.0
+203.165.13.240 NA_285 *.googlevideo.com gvs 1.0
+106.162.216.92 NA_313 *.googlevideo.com gvs 1.0
+106.162.192.151 NA_344 *.googlevideo.com gvs 1.0
+106.162.216.90 NA_409 *.googlevideo.com gvs 1.0
+106.162.192.148 NA_423 google.com gws
+106.162.216.25 NA_425 google.com gws
+106.162.198.110 NA_679 *.googlevideo.com gvs 1.0
+203.165.13.217 NA_708 google.com gws
+203.165.13.223 NA_776 *.googlevideo.com gvs 1.0
+208.117.237.110 NA_969 www.google.com gws
+64.15.121.32 NA_970 www.google.com gws
+208.117.235.38 NA_971 *.googlevideo.com gvs 1.0
+64.15.122.239 NA_983 www.google.com gws
+64.15.123.122 NA_1009 www.google.com gws
+64.15.123.50 NA_1015 www.google.com gws
+208.117.245.168 NA_1034 www.google.com gws
+64.15.122.46 NA_1281 www.google.com gws
+118.174.25.88 NA_1312 google.com gws
+203.165.14.230 NA_1312 *.googlevideo.com gvs 1.0
+118.174.27.160 NA_1335 *.googlevideo.com gvs 1.0
+173.194.129.198 NA_1356 *.c.docs.google.com gvs 1.0
+74.125.155.87 NA_1382 *.c.docs.google.com gvs 1.0
+208.117.235.56 NA_1388 *.googlevideo.com gvs 1.0
+1.179.248.224 NA_1416 *.googlevideo.com gvs 1.0
+1.179.248.219 NA_1451 *.googlevideo.com gvs 1.0
+208.117.246.91 NA_1464 google.com gws
+1.179.248.154 NA_1749 *.googlevideo.com gvs 1.0
+118.174.25.115 NA_1806 *.googlevideo.com gvs 1.0
+64.15.120.44 NA_4043 www.google.com gws
